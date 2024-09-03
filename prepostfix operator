@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main() 
+{
+int a=5,b=10;
+printf("\nvalue of a=%d");
+printf("\n value of b=%d");
+printf("\n value of a=%d ",a++);
+printf("\n value of a=%d",+a);
+printf ("\n value of b=%d",b++);
+printf ("\n value of b=%d",+b);
+
+return 0;
+}
